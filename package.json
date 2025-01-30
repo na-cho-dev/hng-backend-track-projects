@@ -1,0 +1,25 @@
+{
+  "name": "hng-backend-track-projects",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node --watch --trace-warnings server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/na-cho-dev/hng-backend-track-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/na-cho-dev/hng-backend-track-projects/issues"
+  },
+  "homepage": "https://github.com/na-cho-dev/hng-backend-track-projects#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
