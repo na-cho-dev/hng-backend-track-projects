@@ -33,7 +33,7 @@ Welcome to my submission for the **HNG12 Stage 0 Backend Task**. This project is
 {
    "email": "nachodev369@gmail.com",
    "current_datetime": "2025-01-30T08:57:07.620Z",
-   "github_url": "https://github.com/na-cho-dev/hng-backend-track-projects"
+   "github_url": "https://github.com/na-cho-dev/hng-backend-track-stage-0"
 }
 ```
 
@@ -50,7 +50,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/na-cho-dev/hng-backend-track-projects.git
+   git clonehttps://github.com/na-cho-dev/hng-backend-track-stage-0.git
    cd hng-backend-track-projects/
    ```
 2. **Install Dependencies**
@@ -77,7 +77,7 @@ https://hng-backend-track-stage-0-task.onrender.com/
 
 ## Link to Project Repository
 
-[GitHub Repository]("https://github.com/na-cho-dev/hng-backend-track-projects)
+[GitHub Repository](https://github.com/na-cho-dev/hng-backend-track-stage-0)
 
 ## Relevant Backlink
 
