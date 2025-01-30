@@ -22,11 +22,9 @@ Welcome to my submission for the **HNG12 Stage 0 Backend Task**. This project is
 ## API Documentation
 
 ### Endpoint
-
-**GET** `{https://hng-backend-task-0.onrender.com/}`
-| Method    | Endpoint        | Description          |
-| ------    | --------------- | -------------------- |
-| GET       | `/`              | Retrieve basic details |
+| Method    | Endpoint                                               | Description            |
+| ------    | ------------------------------------------------------ | ---------------------- |
+| GET       | `https://hng-backend-track-stage-0-task.onrender.com/` | Retrieve basic details |
 |
 
 ### Sample Response (200 OK)
@@ -53,7 +51,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/na-cho-dev/hng-backend-track-projects.git
-   cd hngs0tskbeginning
+   cd hng-backend-track-projects/hng-backend-track-stage-0/
    ```
 2. **Install Dependencies**
    ```sh
@@ -61,12 +59,12 @@ Ensure you have the following installed:
    ```
 3. **Start the Server**
    ```sh
-   node server.js
+   npm run start
    ```
 4. **Test the API**
    Open your browser or use Postman to visit:
    ```sh
-   http://localhost:3000
+   http://localhost:3300
    ```
 
 ## Deployment
@@ -74,12 +72,12 @@ Ensure you have the following installed:
 The API is deployed and publicly accessible at:
 
 ```
-{https://hng-backend-task-0.onrender.com/}
+https://hng-backend-track-stage-0-task.onrender.com/
 ```
 
 ## Link to Project Repository
 
-[GitHub Repository](https://github.com/na-cho-dev/hng-backend-track-projects)
+[GitHub Repository]("https://github.com/na-cho-dev/hng-backend-track-projects)
 
 ## Relevant Backlink
 

@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     const data = {
         "email": "nachodev369@gmail.com",
         "date": new Date().toISOString(),
-        "github_url": ""
+        "github_url": "https://github.com/na-cho-dev/hng-backend-track-projects/tree/main/hng-backend-track-stage-0"
     }
   res.status(200).json(data);
 });
