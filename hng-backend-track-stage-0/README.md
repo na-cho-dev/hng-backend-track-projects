@@ -31,9 +31,9 @@ Welcome to my submission for the **HNG12 Stage 0 Backend Task**. This project is
 
 ```json
 {
-  "email": "nachodev369@gmail.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "gitrepo": "https://github.com/na-cho-dev/hng-backend-track-projects"
+   "email": "nachodev369@gmail.com",
+   "current_datetime": "2025-01-30T08:57:07.620Z",
+   "github_url": "https://github.com/na-cho-dev/hng-backend-track-projects"
 }
 ```
 
