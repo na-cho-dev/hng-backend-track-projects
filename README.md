@@ -51,7 +51,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/na-cho-dev/hng-backend-track-projects.git
-   cd hng-backend-track-projects/hng-backend-track-stage-0/
+   cd hng-backend-track-projects/
    ```
 2. **Install Dependencies**
    ```sh
